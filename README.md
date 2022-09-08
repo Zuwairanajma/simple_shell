@@ -1,4 +1,5 @@
-# simple_shell
+# C programming lamguage 
+# simple_shell program
 
 #Requirements
 #General
